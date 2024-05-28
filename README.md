@@ -7,7 +7,6 @@
 ### What you’ll learn
 In this tutorial, we will guide you through the steps required to install Ubuntu Desktop on your laptop or PC.
 
-![Screenshot from 2024-05-28 14-17-18](https://github.com/rohit1910kmr/How-to-install-UBUNTU/assets/159015754/88d4a3fa-6fc6-487b-b7e4-0743245d2500)
 
 ### What you’ll need
 - A laptop or PC with at least 25GB of storage space.
